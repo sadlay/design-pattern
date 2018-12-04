@@ -1,4 +1,9 @@
-package demo01;
+package demo01.media.impl.adaptor;
+
+import demo01.advancedmedia.AdvancedMediaPlayer;
+import demo01.media.MediaPlayer;
+import demo01.advancedmedia.impl.Mp4Player;
+import demo01.advancedmedia.impl.VlcPlayer;
 
 /**
  * @Description:

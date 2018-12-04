@@ -1,4 +1,7 @@
-package demo01;
+package demo01.media.impl.audio;
+
+import demo01.media.impl.adaptor.MediaAdapter;
+import demo01.media.MediaPlayer;
 
 /**
  * @Description:

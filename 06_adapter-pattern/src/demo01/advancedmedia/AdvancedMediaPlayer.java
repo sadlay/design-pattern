@@ -1,4 +1,4 @@
-package demo01;
+package demo01.advancedmedia;
 
 /**
  * @Description:

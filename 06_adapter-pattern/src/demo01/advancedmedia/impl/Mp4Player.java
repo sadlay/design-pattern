@@ -1,4 +1,6 @@
-package demo01;
+package demo01.advancedmedia.impl;
+
+import demo01.advancedmedia.AdvancedMediaPlayer;
 
 /**
  * @Description:
