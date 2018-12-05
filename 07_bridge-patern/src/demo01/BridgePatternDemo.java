@@ -18,5 +18,7 @@ public class BridgePatternDemo {
 
         redCircle.draw();
         greenCircle.draw();
+
+
     }
 }
