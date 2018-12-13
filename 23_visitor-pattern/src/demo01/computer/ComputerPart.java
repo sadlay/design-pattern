@@ -1,5 +1,7 @@
 package demo01.computer;
 
+import demo01.visitor.ComputerPartVisitor;
+
 /**
  * @Description:
  * @Author: lay

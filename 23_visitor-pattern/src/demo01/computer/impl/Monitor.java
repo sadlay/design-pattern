@@ -6,11 +6,10 @@ import demo01.visitor.ComputerPartVisitor;
 /**
  * @Description:
  * @Author: lay
- * @Date: Created in 19:18 2018/12/12
+ * @Date: Created in 15:10 2018/12/13
  * @Modified By:IntelliJ IDEA
  */
-public class Keyboard implements ComputerPart {
-
+public class Monitor implements ComputerPart {
     @Override
     public void accept(ComputerPartVisitor computerPartVisitor) {
         computerPartVisitor.visit(this);
